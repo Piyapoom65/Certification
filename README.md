@@ -1,4 +1,7 @@
 # Certification
 
-## Certificate1
-![Basic Cybersecurity](picture/Basic Cybersecurity.png)
+### Certificate1
+![Certificate1](picture/BasicCybersecurity.png)
+
+### Certificate2
+![Certificate2](picture/Fortinet1.png)
