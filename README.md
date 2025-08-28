@@ -19,3 +19,7 @@
 ### Certificate5
 #### Fortinet Certified Fundamentals in Cybersecurity
 ![Certificate5](picture/Fortinet4.png)
+
+### Certificate6
+#### IC3 GS6 Level 1
+![Certificate6](picture/IC3GS6Level1.png)
