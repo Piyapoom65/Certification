@@ -31,3 +31,7 @@
 ### Certificate8
 #### Fortinet Certified Association in Cybersecurity
 ![Certificate8](picture/Fortinet6.png)
+
+### Certificate9
+#### ARIT Digital Literacy Certification
+![Certificate9](picture/ARITDigitalLiteracyCertification.png)
