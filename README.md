@@ -39,3 +39,11 @@
 ### Certificate10
 #### Introduction to Cybersecurity certificate
 ![Certificate10](picture/Cisco1.png)
+
+### Certificate11
+#### บทบาทของ Ai กับอนาคตของการเรียนรู้ในสังคมยุคใหม่
+![Certificate11](picture/AI.png)
+
+### Certificate12
+#### ยกรดับภาคธุรกิจ SMEs ด้านความมั่นคงปลอดภัยไซเบอร์
+![Certificate12](picture/NCSA.png)
